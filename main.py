@@ -30,7 +30,7 @@ root2.mainloop()
 
 guan()
 root=tkinter.Tk()
-root.title("页面")
+root.title("5G潜在用户页面")
 lab_1=tkinter.Label(root, text="第二个界面", height=3).place(x=0, y=0)
 root.mainloop()
 
