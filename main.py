@@ -1,6 +1,8 @@
-import tkinter # 导入tkinter库
+# 导入tkinter库
+import tkinter
+
 from PIL import Image, ImageTk
-from numba.cuda import event
+# from numba.cuda import event
 
 
 def guan():
